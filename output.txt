@@ -1,5 +1,5 @@
 output 1:
-PS C:\Users\Riya\Programming\Hashira> cd "c:\Users\Riya\Programming\Hashira\" ; if ($?) { g++ program.cpp -o program } ; if ($?) { .\program }
+PS C:\Users\Anjasi\Programming\Hashira> cd "c:\Users\Anjasi\Programming\Hashira\" ; if ($?) { g++ program.cpp -o program } ; if ($?) { .\program }
 n = 4, k = 3
 
 Decoded point: (1, 4)
@@ -23,7 +23,7 @@ The secret (constant term a0): 3
 
 
 output 2:
-PS C:\Users\Riya\Programming\Hashira> cd "c:\Users\Riya\Programming\Hashira\" ; if ($?) { g++ program.cpp -o program } ; if ($?) { .\program }
+PS C:\Users\Anjasi\Programming\Hashira> cd "c:\Users\Anjasi\Programming\Hashira\" ; if ($?) { g++ program.cpp -o program } ; if ($?) { .\program }
 n = 10, k = 7
 
 Decoded point: (1, 995085094601491)
@@ -36,4 +36,5 @@ Error decoding value: 20120221122211000100210021102001201112121 in base 3
 Error decoding value: 20220554335330240002224253 in base 6
 Error decoding value: 45153788322a1255483 in base 12
 Error decoding value: 1101613130313526312514143 in base 7
+
 Error: Not enough points. Need 7, got 5
